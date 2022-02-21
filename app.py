@@ -177,6 +177,13 @@ def Update_feat(input_df):
     return input_df
 
 
+st.title("Olist Customer Satisfaction Prediction")
+html_temp = """
+<div style="background-color:tomato;padding:10px">
+<h2 style="color:white;text-align:center;">Olist Customer Satisfaction Prediction ML App</h2>
+</div>
+"""
+
 uploaded_file = st.file_uploader("Choose a file")
 if uploaded_file is not None:
     
