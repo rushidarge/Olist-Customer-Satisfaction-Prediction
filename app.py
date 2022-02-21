@@ -202,4 +202,4 @@ if uploaded_file is not None:
             else:
                 st.success('Customer is satisfy')
         else:
-            st.success('Your Output ',result)
+            st.success('Your Output {}'.format(result))
