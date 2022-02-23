@@ -7,4 +7,4 @@ Olist is an Small and Midsize Business (SMB) commerce enabler ecosystem that spe
 ![olist](img/download.jpg)
 
 # [Deploy](https://share.streamlit.io/rushidarge/olist-customer-satisfaction-prediction/main/app.py)
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Deploy app](img/app_screenshot.JPG)](https://youtu.be/C85tzuGaMxY)
